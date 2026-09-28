@@ -1,0 +1,4 @@
+group,records,avg_spend,median_spend,avg_sessions,avg_session_min
+Brazil,105,58.56,10.04,9.84,19.54
+LATAM (ex-Brazil),115,93.66,12.3,10.12,19.38
+Rest of world,2804,104.58,12.07,10.08,20.12

@@ -1,0 +1,4 @@
+segment,count,mean,median,max
+Dolphins,392,245.63,244.59,497.91
+Minnows,2432,10.03,10.09,20.0
+Whales,63,2787.03,2620.84,4964.45
